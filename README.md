@@ -6,12 +6,11 @@ Categorizing countries worldwide using socio-economic and health data through no
 **Skills Applied:**  
 `Bayesian clustering` `Non-parametric methods` `Greedy algorithms` `SALSO` `Binder loss` `Variation of Information` `R` `ggplot2`
 
-This project explores **non-parametric Bayesian clustering** methods to categorize countries worldwide based on socio-economic and health indicators. It is part of a methodological study on advanced clustering techniques, followed by a practical application to real-world country data.
-
-
 ## 📖 Introduction
 
 The project focuses on **Bayesian non-parametric clustering**, which allows flexible grouping without pre-specifying the number of clusters. Key concepts include **loss functions** such as **Binder loss** and **Variation of Information (VI)**, which help evaluate clustering performance.
+
+The application explores non-parametric Bayesian clustering methods to categorize countries worldwide based on socio-economic and health indicators. 
 
 
 ## ⚙️ Algorithms
